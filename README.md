@@ -40,7 +40,7 @@ Desktop Screen
  Desktop Screen With Cart
 - ![Desktop Screen](/screenshots/desktop-cart.png)
  Mobile Screen With Cart
-- ![Mobile Screen With Cart](/screenshots/small-screen-cart.PNG)
+- ![Mobile Screen With Cart](/screenshots/mobile-cart.png)
  Mobile Menu
 - ![Mobile Menu](/screenshots/mobile-menu.PNG)
  Lightbox gallery
